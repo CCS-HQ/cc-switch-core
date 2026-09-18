@@ -3,7 +3,7 @@ name = "cc-switch-store"
 version = "0.1.0"
 description = "Shared SQLite storage contracts for CC Switch applications"
 license = "MIT"
-repository = "https://github.com/SaladDay/cc-switch-core"
+repository = "https://github.com/CCS-HQ/cc-switch-core"
 edition = "2021"
 rust-version = "1.85.0"
 
