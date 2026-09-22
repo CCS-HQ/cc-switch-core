@@ -112,4 +112,7 @@ Ordinary filesystems cannot exclude non-cooperating writers between comparison
 and replacement, so each host must document that platform limit. The crate's
 separate `fs` module remains the small shared file-writing primitive layer.
 
+Migration progress is tracked in [docs/status.md](docs/status.md); remaining
+work and the next iteration are in [docs/roadmap.md](docs/roadmap.md).
+
 The API may change before `1.0.0`.
